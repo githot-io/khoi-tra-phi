@@ -4,7 +4,7 @@ Danh sách phần mềm mã nguồn mở, miễn phí trên GitHub mà [GitHot](
 
 Không thấy phần mềm bạn cần? Tìm trên [githot.io.vn](https://www.githot.io.vn), hoặc [mở một issue](../../issues/new) để đề xuất.
 
-## Danh sách (33 hướng dẫn)
+## Danh sách (39 hướng dẫn)
 
 | Phần mềm | Dùng để làm gì | Mã nguồn |
 | --- | --- | --- |
@@ -34,13 +34,19 @@ Không thấy phần mềm bạn cần? Tìm trên [githot.io.vn](https://www.gi
 | [Headroom](https://www.githot.io.vn/repo/headroomlabs-ai-headroom) | Tầng nén context cho AI coding agent, giảm 60-95% token JSON và log với thuật toán SmartCrusher và CCR. | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) |
 | [VoiceStudio](https://www.githot.io.vn/repo/debpalash-voicestudio) | Ứng dụng desktop mã nguồn mở thay thế ElevenLabs chạy 100% local, hỗ trợ nhân bản giọng nói và 646 ngôn ngữ. | [debpalash/voicestudio](https://github.com/debpalash/voicestudio) |
 | [Orca ADE](https://www.githot.io.vn/repo/stablyai-orca) | Môi trường phát triển chuyên biệt cho Agent (ADE), sử dụng Git Worktree cô lập để chạy song song nhiều AI coding agent. | [stablyai/orca](https://github.com/stablyai/orca) |
+| [Colibri](https://www.githot.io.vn/repo/justvugg-colibri) | Engine viết bằng C thuần chạy các siêu mô hình MoE kích thước 744B đến 2.8T ngay trên máy tính cá nhân. | [justvugg/colibri](https://github.com/justvugg/colibri) |
+| [OmniRoute](https://www.githot.io.vn/repo/diegosouzapw-omniroute) | Cổng kết nối AI Gateway đa nhà cung cấp, hỗ trợ 352+ providers, nén token RTK và tự động chuyển đổi khi lỗi. | [diegosouzapw/omniroute](https://github.com/diegosouzapw/omniroute) |
+| [Browser Harness](https://www.githot.io.vn/repo/browser-use-browser-harness) | Hệ thống điều khiển trình duyệt tự động cho AI Agent với khả năng trích xuất DOM, chụp ảnh màn hình và tương tác web. | [browser-use/browser-harness](https://github.com/browser-use/browser-harness) |
+| [Meetily](https://www.githot.io.vn/repo/zackriya-solutions-meetily) | Trợ lý ghi âm và tóm tắt cuộc họp AI chạy 100% cục bộ trên máy tính, bảo mật tuyệt đối với Whisper và Ollama. | [zackriya-solutions/meetily](https://github.com/zackriya-solutions/meetily) |
 | [Prime Agent](https://www.githot.io.vn/repo/primeintellect-ai-prime-agent) | Coding agent tự cải thiện, xây dựng trên IPython REPL thường trực, tự phát sinh subagent và giao tiếp nền. | [primeintellect-ai/prime-agent](https://github.com/primeintellect-ai/prime-agent) |
 | [RuView](https://www.githot.io.vn/repo/ruvnet-ruview) | Công nghệ định vị không gian và phát hiện chuyển động qua sóng WiFi CSI bằng vi điều khiển ESP32. | [ruvnet/ruview](https://github.com/ruvnet/ruview) |
 | [Alibaba Open Code Review](https://www.githot.io.vn/repo/alibaba-open-code-review) | Hệ thống AI review code tự động nội bộ của Alibaba, hỗ trợ Git hook, CI/CD và nhiều ngôn ngữ lập trình. | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) |
 | [Tencent WeKnora](https://www.githot.io.vn/repo/tencent-weknora) | Nền tảng AI Knowledge Platform mã nguồn mở của Tencent, hỗ trợ Hybrid Search, Graph RAG và Agent CLI. | [tencent/weknora](https://github.com/tencent/weknora) |
 | [Claude SEO](https://www.githot.io.vn/repo/agricidaniel-claude-seo) | Bộ kỹ năng 15-18 agent chuyên sâu tối ưu SEO cho Claude Code, kiểm toán Technical SEO, E-E-A-T và chuẩn GEO/AEO. | [agricidaniel/claude-seo](https://github.com/agricidaniel/claude-seo) |
 | [Unsloth](https://www.githot.io.vn/repo/unslothai-unsloth) | Thư viện fine-tune mô hình ngôn ngữ lớn (LLM) nhanh gấp 2-5 lần và tiết kiệm 70-80% VRAM nhờ viết lại đạo hàm Triton. | [unslothai/unsloth](https://github.com/unslothai/unsloth) |
+| [PentAGI](https://www.githot.io.vn/repo/vxcontrol-pentagi) | AI Agent tự động hóa kiểm thử thâm nhập (pentest), tự lập kế hoạch tấn công và báo cáo lỗ hổng. | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) |
 | [GenOffice](https://www.githot.io.vn/repo/genspark-ai-genoffice) | Bộ ứng dụng văn phòng AI mã nguồn mở chạy offline, giữ nguyên byte gốc cho Word, Excel, PowerPoint. | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) |
+| [RetainPDF](https://www.githot.io.vn/repo/wxyhgk-retain-pdf) | Dịch PDF scan và ảnh giữ nguyên bố cục phức tạp, bảo vệ công thức toán học và mã nguồn. | [wxyhgk/retain-pdf](https://github.com/wxyhgk/retain-pdf) |
 
 ## English
 
@@ -74,13 +80,19 @@ Free, open-source software from GitHub that [GitHot](https://www.githot.io.vn/en
 | [Headroom](https://www.githot.io.vn/en/repo/headroomlabs-ai-headroom) | Context compression layer for AI coding agents, reducing JSON and log tokens by 60-95% with lossless reversibility. | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) |
 | [VoiceStudio](https://www.githot.io.vn/en/repo/debpalash-voicestudio) | Open-source, 100% local ElevenLabs alternative for voice cloning, dubbing, and dictation supporting 646 languages. | [debpalash/voicestudio](https://github.com/debpalash/voicestudio) |
 | [Orca ADE](https://www.githot.io.vn/en/repo/stablyai-orca) | Agent Development Environment (ADE) leveraging isolated Git Worktrees for concurrent multi-agent software engineering. | [stablyai/orca](https://github.com/stablyai/orca) |
+| [Colibri](https://www.githot.io.vn/en/repo/justvugg-colibri) | Pure C inference engine designed to run massive 744B to 2.8T MoE models on consumer hardware. | [justvugg/colibri](https://github.com/justvugg/colibri) |
+| [OmniRoute](https://www.githot.io.vn/en/repo/diegosouzapw-omniroute) | Multi-provider AI gateway connecting 352+ providers, featuring RTK token compression and automatic fallback routing. | [diegosouzapw/omniroute](https://github.com/diegosouzapw/omniroute) |
+| [Browser Harness](https://www.githot.io.vn/en/repo/browser-use-browser-harness) | Automated browser control harness for AI agents with DOM extraction, visual screenshots, and web interaction. | [browser-use/browser-harness](https://github.com/browser-use/browser-harness) |
+| [Meetily](https://www.githot.io.vn/en/repo/zackriya-solutions-meetily) | 100% local AI meeting assistant built with Tauri, Rust, Whisper, and Ollama for private transcription and summaries. | [zackriya-solutions/meetily](https://github.com/zackriya-solutions/meetily) |
 | [Prime Agent](https://www.githot.io.vn/en/repo/primeintellect-ai-prime-agent) | Self-improving coding agent built on persistent IPython REPL with autonomous subagent spawning and communication. | [primeintellect-ai/prime-agent](https://github.com/primeintellect-ai/prime-agent) |
 | [RuView](https://www.githot.io.vn/en/repo/ruvnet-ruview) | Real-time spatial intelligence and presence sensing through commodity WiFi CSI signals using ESP32. | [ruvnet/ruview](https://github.com/ruvnet/ruview) |
 | [Alibaba Open Code Review](https://www.githot.io.vn/en/repo/alibaba-open-code-review) | Alibaba open-source AI automated code review system supporting Git hooks, CI/CD pipelines, and multi-language analysis. | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) |
 | [Tencent WeKnora](https://www.githot.io.vn/en/repo/tencent-weknora) | Tencent open-source AI knowledge platform featuring hybrid vector/keyword search, knowledge graphs, and agent CLI. | [tencent/weknora](https://github.com/tencent/weknora) |
 | [Claude SEO](https://www.githot.io.vn/en/repo/agricidaniel-claude-seo) | Comprehensive SEO audit plugin for Claude Code running 15+ specialist agents for technical SEO, Schema, and GEO/AEO. | [agricidaniel/claude-seo](https://github.com/agricidaniel/claude-seo) |
 | [Unsloth](https://www.githot.io.vn/en/repo/unslothai-unsloth) | Ultra-fast, memory-efficient LLM fine-tuning library saving 70-80% VRAM with manual Triton autograd kernels. | [unslothai/unsloth](https://github.com/unslothai/unsloth) |
+| [PentAGI](https://www.githot.io.vn/en/repo/vxcontrol-pentagi) | Autonomous AI agent for penetration testing, automated vulnerability exploitation and security reporting. | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) |
 | [GenOffice](https://www.githot.io.vn/en/repo/genspark-ai-genoffice) | Open-source offline AI office suite featuring byte-preserving round trips for Word, Excel, and PowerPoint. | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) |
+| [RetainPDF](https://www.githot.io.vn/en/repo/wxyhgk-retain-pdf) | Translate scanned and image PDFs while preserving complex multi-column layouts and inline mathematical formulas. | [wxyhgk/retain-pdf](https://github.com/wxyhgk/retain-pdf) |
 
 ## Ghi chú / Notes
 

@@ -4,10 +4,11 @@ Danh sách phần mềm mã nguồn mở, miễn phí trên GitHub mà [GitHot](
 
 Không thấy phần mềm bạn cần? Tìm trên [githot.io.vn](https://www.githot.io.vn), hoặc [mở một issue](../../issues/new) để đề xuất.
 
-## Danh sách (39 hướng dẫn)
+## Danh sách (40 hướng dẫn)
 
 | Phần mềm | Dùng để làm gì | Mã nguồn |
 | --- | --- | --- |
+| [Handy](https://www.githot.io.vn/repo/handy) | Ứng dụng chuyển giọng nói thành chữ miễn phí, mã nguồn mở (MIT), chạy ngay trên máy tính của bạn. | [cjpais/handy](https://github.com/cjpais/handy) |
 | [VieNeu-TTS](https://www.githot.io.vn/repo/vieneu-tts) | Chuyển văn bản thành giọng nói tiếng Việt, mã nguồn mở (Apache-2.0), do người Việt phát triển và chạy ngay trên máy của bạn. | [pnnbao97/vieneu-tts](https://github.com/pnnbao97/vieneu-tts) |
 | [Full Stack FastAPI Template](https://www.githot.io.vn/repo/fastapi-full-stack-fastapi-template) | Template dự án web full-stack chính chủ của nhóm FastAPI: backend FastAPI + SQLModel + PostgreSQL, frontend React + TypeScript + Vite + Tailwind CSS + shadcn/ui. | [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) |
 | [Claude Code Templates](https://www.githot.io.vn/repo/davila7-claude-code-templates) | Bộ sưu tập cấu hình sẵn dùng cho Claude Code: hơn 100 agent chuyên môn, slash command, skill, hook, settings và tích hợp MCP, mỗi thứ cài bằng đúng một lệnh npx. | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) |
@@ -54,6 +55,7 @@ Free, open-source software from GitHub that [GitHot](https://www.githot.io.vn/en
 
 | Software | What it is for | Source |
 | --- | --- | --- |
+| [Handy](https://www.githot.io.vn/en/repo/handy) | Free, open-source (MIT) speech-to-text app that runs on your own computer. | [cjpais/handy](https://github.com/cjpais/handy) |
 | [VieNeu-TTS](https://www.githot.io.vn/en/repo/vieneu-tts) | Open-source (Apache-2.0) Vietnamese text-to-speech built by a Vietnamese developer that runs on your own machine. | [pnnbao97/vieneu-tts](https://github.com/pnnbao97/vieneu-tts) |
 | [Full Stack FastAPI Template](https://www.githot.io.vn/en/repo/fastapi-full-stack-fastapi-template) | The FastAPI team's own full-stack project template: FastAPI + SQLModel + PostgreSQL on the backend, React + TypeScript + Vite + Tailwind CSS + shadcn/ui on the frontend. | [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) |
 | [Claude Code Templates](https://www.githot.io.vn/en/repo/davila7-claude-code-templates) | A ready-to-use configuration catalog for Claude Code: 100+ specialised agents, slash commands, skills, hooks, settings and MCP integrations, each installable with a single npx command. | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) |

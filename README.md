@@ -4,10 +4,11 @@ Danh sách phần mềm mã nguồn mở, miễn phí trên GitHub mà [GitHot](
 
 Không thấy phần mềm bạn cần? Tìm trên [githot.io.vn](https://www.githot.io.vn), hoặc [mở một issue](../../issues/new) để đề xuất.
 
-## Danh sách (40 hướng dẫn)
+## Danh sách (41 hướng dẫn)
 
 | Phần mềm | Dùng để làm gì | Mã nguồn |
 | --- | --- | --- |
+| [HowToLiveBetter](https://www.githot.io.vn/repo/howtolivebetter) | Cuốn sách mở miễn phí trên GitHub với khoảng 650 lời khuyên sống khỏe, sơ cứu, tiêu tiền và giữ an toàn. | [eternity4719/howtolivebetter](https://github.com/eternity4719/howtolivebetter) |
 | [Handy](https://www.githot.io.vn/repo/handy) | Ứng dụng chuyển giọng nói thành chữ miễn phí, mã nguồn mở (MIT), chạy ngay trên máy tính của bạn. | [cjpais/handy](https://github.com/cjpais/handy) |
 | [VieNeu-TTS](https://www.githot.io.vn/repo/vieneu-tts) | Chuyển văn bản thành giọng nói tiếng Việt, mã nguồn mở (Apache-2.0), do người Việt phát triển và chạy ngay trên máy của bạn. | [pnnbao97/vieneu-tts](https://github.com/pnnbao97/vieneu-tts) |
 | [Full Stack FastAPI Template](https://www.githot.io.vn/repo/fastapi-full-stack-fastapi-template) | Template dự án web full-stack chính chủ của nhóm FastAPI: backend FastAPI + SQLModel + PostgreSQL, frontend React + TypeScript + Vite + Tailwind CSS + shadcn/ui. | [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) |
@@ -55,6 +56,7 @@ Free, open-source software from GitHub that [GitHot](https://www.githot.io.vn/en
 
 | Software | What it is for | Source |
 | --- | --- | --- |
+| [HowToLiveBetter](https://www.githot.io.vn/en/repo/howtolivebetter) | Free open book on GitHub with about 650 recommendations on health, first aid, money and personal safety. | [eternity4719/howtolivebetter](https://github.com/eternity4719/howtolivebetter) |
 | [Handy](https://www.githot.io.vn/en/repo/handy) | Free, open-source (MIT) speech-to-text app that runs on your own computer. | [cjpais/handy](https://github.com/cjpais/handy) |
 | [VieNeu-TTS](https://www.githot.io.vn/en/repo/vieneu-tts) | Open-source (Apache-2.0) Vietnamese text-to-speech built by a Vietnamese developer that runs on your own machine. | [pnnbao97/vieneu-tts](https://github.com/pnnbao97/vieneu-tts) |
 | [Full Stack FastAPI Template](https://www.githot.io.vn/en/repo/fastapi-full-stack-fastapi-template) | The FastAPI team's own full-stack project template: FastAPI + SQLModel + PostgreSQL on the backend, React + TypeScript + Vite + Tailwind CSS + shadcn/ui on the frontend. | [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) |

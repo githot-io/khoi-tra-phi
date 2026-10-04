@@ -4,10 +4,11 @@ Danh sách phần mềm mã nguồn mở, miễn phí trên GitHub mà [GitHot](
 
 Không thấy phần mềm bạn cần? Tìm trên [githot.io.vn](https://www.githot.io.vn), hoặc [mở một issue](../../issues/new) để đề xuất.
 
-## Danh sách (43 hướng dẫn)
+## Danh sách (44 hướng dẫn)
 
 | Phần mềm | Dùng để làm gì | Mã nguồn |
 | --- | --- | --- |
+| [OpenMAIC](https://www.githot.io.vn/repo/openmaic) | Nền tảng mã nguồn mở (MIT) của Đại học Thanh Hoa: gõ một chủ đề hoặc tải tài liệu lên, AI dựng cả lớp học tương tác với trang bài giảng, câu hỏi, mô phỏng, thầy giáo và bạn học AI. | [thu-maic/openmaic](https://github.com/thu-maic/openmaic) |
 | [Immich](https://www.githot.io.vn/repo/immich) | Kho ảnh và video tự dựng, miễn phí, mã nguồn mở (AGPL-3.0), giống Google Photos nhưng chạy trên máy tính của bạn. | [immich-app/immich](https://github.com/immich-app/immich) |
 | [Upscayl](https://www.githot.io.vn/repo/upscayl) | Ứng dụng phóng to và làm nét ảnh bằng AI, miễn phí, mã nguồn mở (AGPL-3.0), chạy ngay trên máy tính của bạn. | [upscayl/upscayl](https://github.com/upscayl/upscayl) |
 | [HowToLiveBetter](https://www.githot.io.vn/repo/howtolivebetter) | Cuốn sách mở miễn phí trên GitHub với khoảng 650 lời khuyên sống khỏe, sơ cứu, tiêu tiền và giữ an toàn. | [eternity4719/howtolivebetter](https://github.com/eternity4719/howtolivebetter) |
@@ -58,6 +59,7 @@ Free, open-source software from GitHub that [GitHot](https://www.githot.io.vn/en
 
 | Software | What it is for | Source |
 | --- | --- | --- |
+| [OpenMAIC](https://www.githot.io.vn/en/repo/openmaic) | Open-source (MIT) platform from Tsinghua University: type a topic or upload a document and AI builds a whole interactive classroom with lesson pages, quizzes, simulations and AI teachers and classmates. | [thu-maic/openmaic](https://github.com/thu-maic/openmaic) |
 | [Immich](https://www.githot.io.vn/en/repo/immich) | Free, open-source (AGPL-3.0) self-hosted photo and video library, like Google Photos on a computer you own. | [immich-app/immich](https://github.com/immich-app/immich) |
 | [Upscayl](https://www.githot.io.vn/en/repo/upscayl) | Free, open-source (AGPL-3.0) AI image upscaler that runs on your own computer. | [upscayl/upscayl](https://github.com/upscayl/upscayl) |
 | [HowToLiveBetter](https://www.githot.io.vn/en/repo/howtolivebetter) | Free open book on GitHub with about 650 recommendations on health, first aid, money and personal safety. | [eternity4719/howtolivebetter](https://github.com/eternity4719/howtolivebetter) |

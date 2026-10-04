@@ -4,10 +4,11 @@ Danh sách phần mềm mã nguồn mở, miễn phí trên GitHub mà [GitHot](
 
 Không thấy phần mềm bạn cần? Tìm trên [githot.io.vn](https://www.githot.io.vn), hoặc [mở một issue](../../issues/new) để đề xuất.
 
-## Danh sách (42 hướng dẫn)
+## Danh sách (43 hướng dẫn)
 
 | Phần mềm | Dùng để làm gì | Mã nguồn |
 | --- | --- | --- |
+| [Immich](https://www.githot.io.vn/repo/immich) | Kho ảnh và video tự dựng, miễn phí, mã nguồn mở (AGPL-3.0), giống Google Photos nhưng chạy trên máy tính của bạn. | [immich-app/immich](https://github.com/immich-app/immich) |
 | [Upscayl](https://www.githot.io.vn/repo/upscayl) | Ứng dụng phóng to và làm nét ảnh bằng AI, miễn phí, mã nguồn mở (AGPL-3.0), chạy ngay trên máy tính của bạn. | [upscayl/upscayl](https://github.com/upscayl/upscayl) |
 | [HowToLiveBetter](https://www.githot.io.vn/repo/howtolivebetter) | Cuốn sách mở miễn phí trên GitHub với khoảng 650 lời khuyên sống khỏe, sơ cứu, tiêu tiền và giữ an toàn. | [eternity4719/howtolivebetter](https://github.com/eternity4719/howtolivebetter) |
 | [Handy](https://www.githot.io.vn/repo/handy) | Ứng dụng chuyển giọng nói thành chữ miễn phí, mã nguồn mở (MIT), chạy ngay trên máy tính của bạn. | [cjpais/handy](https://github.com/cjpais/handy) |
@@ -57,6 +58,7 @@ Free, open-source software from GitHub that [GitHot](https://www.githot.io.vn/en
 
 | Software | What it is for | Source |
 | --- | --- | --- |
+| [Immich](https://www.githot.io.vn/en/repo/immich) | Free, open-source (AGPL-3.0) self-hosted photo and video library, like Google Photos on a computer you own. | [immich-app/immich](https://github.com/immich-app/immich) |
 | [Upscayl](https://www.githot.io.vn/en/repo/upscayl) | Free, open-source (AGPL-3.0) AI image upscaler that runs on your own computer. | [upscayl/upscayl](https://github.com/upscayl/upscayl) |
 | [HowToLiveBetter](https://www.githot.io.vn/en/repo/howtolivebetter) | Free open book on GitHub with about 650 recommendations on health, first aid, money and personal safety. | [eternity4719/howtolivebetter](https://github.com/eternity4719/howtolivebetter) |
 | [Handy](https://www.githot.io.vn/en/repo/handy) | Free, open-source (MIT) speech-to-text app that runs on your own computer. | [cjpais/handy](https://github.com/cjpais/handy) |

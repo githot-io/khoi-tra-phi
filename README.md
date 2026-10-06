@@ -4,10 +4,12 @@ Danh sách phần mềm mã nguồn mở, miễn phí trên GitHub mà [GitHot](
 
 Không thấy phần mềm bạn cần? Tìm trên [githot.io.vn](https://www.githot.io.vn), hoặc [mở một issue](../../issues/new) để đề xuất.
 
-## Danh sách (44 hướng dẫn)
+## Danh sách (46 hướng dẫn)
 
 | Phần mềm | Dùng để làm gì | Mã nguồn |
 | --- | --- | --- |
+| [PDFMathTranslate](https://www.githot.io.vn/repo/pdfmathtranslate) | Công cụ miễn phí dịch cả file PDF sang ngôn ngữ khác mà giữ nguyên bố cục: công thức toán, biểu đồ, bảng và mục lục vẫn đúng chỗ. | [pdfmathtranslate/pdfmathtranslate](https://github.com/pdfmathtranslate/pdfmathtranslate) |
+| [BentoPDF](https://www.githot.io.vn/repo/bentopdf) | Bộ hơn 50 công cụ PDF miễn phí, mã nguồn mở, chạy ngay trong trình duyệt: gộp, tách, xoay, nén dung lượng, đặt mật khẩu, ký tên, đổi PDF sang ảnh, Word sang PDF và OCR file scan. | [alam00000/bentopdf](https://github.com/alam00000/bentopdf) |
 | [OpenMAIC](https://www.githot.io.vn/repo/openmaic) | Nền tảng mã nguồn mở (MIT) của Đại học Thanh Hoa: gõ một chủ đề hoặc tải tài liệu lên, AI dựng cả lớp học tương tác với trang bài giảng, câu hỏi, mô phỏng, thầy giáo và bạn học AI. | [thu-maic/openmaic](https://github.com/thu-maic/openmaic) |
 | [Immich](https://www.githot.io.vn/repo/immich) | Kho ảnh và video tự dựng, miễn phí, mã nguồn mở (AGPL-3.0), giống Google Photos nhưng chạy trên máy tính của bạn. | [immich-app/immich](https://github.com/immich-app/immich) |
 | [Upscayl](https://www.githot.io.vn/repo/upscayl) | Ứng dụng phóng to và làm nét ảnh bằng AI, miễn phí, mã nguồn mở (AGPL-3.0), chạy ngay trên máy tính của bạn. | [upscayl/upscayl](https://github.com/upscayl/upscayl) |
@@ -59,6 +61,8 @@ Free, open-source software from GitHub that [GitHot](https://www.githot.io.vn/en
 
 | Software | What it is for | Source |
 | --- | --- | --- |
+| [PDFMathTranslate](https://www.githot.io.vn/en/repo/pdfmathtranslate) | A free tool that translates whole PDF files into another language while keeping the layout: math formulas, charts, tables and the table of contents stay in place. | [pdfmathtranslate/pdfmathtranslate](https://github.com/pdfmathtranslate/pdfmathtranslate) |
+| [BentoPDF](https://www.githot.io.vn/en/repo/bentopdf) | A free, open-source set of 50+ PDF tools that runs right in your browser: merge, split, rotate, compress, password-protect, sign, convert PDF to images, Word to PDF and OCR scanned files. | [alam00000/bentopdf](https://github.com/alam00000/bentopdf) |
 | [OpenMAIC](https://www.githot.io.vn/en/repo/openmaic) | Open-source (MIT) platform from Tsinghua University: type a topic or upload a document and AI builds a whole interactive classroom with lesson pages, quizzes, simulations and AI teachers and classmates. | [thu-maic/openmaic](https://github.com/thu-maic/openmaic) |
 | [Immich](https://www.githot.io.vn/en/repo/immich) | Free, open-source (AGPL-3.0) self-hosted photo and video library, like Google Photos on a computer you own. | [immich-app/immich](https://github.com/immich-app/immich) |
 | [Upscayl](https://www.githot.io.vn/en/repo/upscayl) | Free, open-source (AGPL-3.0) AI image upscaler that runs on your own computer. | [upscayl/upscayl](https://github.com/upscayl/upscayl) |

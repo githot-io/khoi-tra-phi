@@ -4,10 +4,12 @@ Danh sách phần mềm mã nguồn mở, miễn phí trên GitHub mà [GitHot](
 
 Không thấy phần mềm bạn cần? Tìm trên [githot.io.vn](https://www.githot.io.vn), hoặc [mở một issue](../../issues/new) để đề xuất.
 
-## Danh sách (49 hướng dẫn)
+## Danh sách (51 hướng dẫn)
 
 | Phần mềm | Dùng để làm gì | Mã nguồn |
 | --- | --- | --- |
+| [FilmCraft](https://www.githot.io.vn/repo/filmcraft) | Phần mềm dựng video miễn phí, mã nguồn mở (MIT hoặc Apache-2.0), thay thế Premiere Pro cho Windows, macOS và Linux. | [storytold/filmcraft](https://github.com/storytold/filmcraft) |
+| [PhotoCraft](https://www.githot.io.vn/repo/photocraft) | Phần mềm chỉnh ảnh miễn phí, mã nguồn mở (MIT hoặc Apache-2.0), thay thế Photoshop cho Windows, macOS và Linux. | [storytold/photocraft](https://github.com/storytold/photocraft) |
 | [God's Eye View](https://www.githot.io.vn/repo/gods-eye-view) | Quả địa cầu 3D chạy trên trình duyệt, miễn phí, mã nguồn mở (MIT), hiện dữ liệu công khai gần thời gian thực: máy bay, tàu, vệ tinh (kể cả ISS), động đất, cháy, thời tiết. | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) |
 | [Concat](https://www.githot.io.vn/repo/concat) | Phần mềm dựng video miễn phí, mã nguồn mở (AGPL-3.0), thay thế CapCut cho Windows, macOS, Linux và Android. | [jub0t/concat](https://github.com/jub0t/concat) |
 | [openGym](https://www.githot.io.vn/repo/opengym) | Sổ tập gym miễn phí, mã nguồn mở (AGPL-3.0): lên lịch tập theo ngày, ghi từng hiệp với đồng hồ nghỉ, xem biểu đồ tiến bộ và cân nặng. | [duartesantos8/opengym](https://github.com/duartesantos8/opengym) |
@@ -64,6 +66,8 @@ Free, open-source software from GitHub that [GitHot](https://www.githot.io.vn/en
 
 | Software | What it is for | Source |
 | --- | --- | --- |
+| [FilmCraft](https://www.githot.io.vn/en/repo/filmcraft) | Free, open-source (MIT or Apache-2.0) Premiere Pro alternative for Windows, macOS and Linux with a multi-track timeline, transitions, colour grading, audio mixing and H.264 MP4 export. | [storytold/filmcraft](https://github.com/storytold/filmcraft) |
+| [PhotoCraft](https://www.githot.io.vn/en/repo/photocraft) | Free, open-source (MIT or Apache-2.0) Photoshop alternative for Windows, macOS and Linux with layers, masks, adjustment layers, text, brushes and real PSD support. | [storytold/photocraft](https://github.com/storytold/photocraft) |
 | [God's Eye View](https://www.githot.io.vn/en/repo/gods-eye-view) | Free, open-source (MIT) 3D globe that runs in your browser and shows public data almost in real time: aircraft, ships, satellites (including the ISS), earthquakes, fires and weather. | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) |
 | [Concat](https://www.githot.io.vn/en/repo/concat) | Free, open-source (AGPL-3.0) video editor and CapCut alternative for Windows, macOS, Linux and Android. | [jub0t/concat](https://github.com/jub0t/concat) |
 | [openGym](https://www.githot.io.vn/en/repo/opengym) | Free, open-source (AGPL-3.0) gym and body-weight tracker: plan a routine per weekday, log every set with a rest timer, and see progress charts. | [duartesantos8/opengym](https://github.com/duartesantos8/opengym) |

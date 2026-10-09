@@ -4,10 +4,12 @@ Danh sách phần mềm mã nguồn mở, miễn phí trên GitHub mà [GitHot](
 
 Không thấy phần mềm bạn cần? Tìm trên [githot.io.vn](https://www.githot.io.vn), hoặc [mở một issue](../../issues/new) để đề xuất.
 
-## Danh sách (51 hướng dẫn)
+## Danh sách (53 hướng dẫn)
 
 | Phần mềm | Dùng để làm gì | Mã nguồn |
 | --- | --- | --- |
+| [Plexo](https://www.githot.io.vn/repo/plexo) | Phần mềm quản lý tải xuống miễn phí, mã nguồn mở (MIT) cho Windows, macOS và Linux, tải một file qua nhiều mạng cùng lúc (ví dụ Wi-Fi nhà cộng điện thoại phát mạng qua USB). | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) |
+| [Strata](https://www.githot.io.vn/repo/strata) | Chương trình miễn phí, mã nguồn mở (MIT) giúp chạy mô hình AI cỡ lớn (Qwen3.8-Flash-Next, khoảng 125 tỷ tham số) offline ngay trên PC chơi game có card NVIDIA hoặc AMD từ 12 GB VRAM và RAM từ 32 GB. | [niko1221/strata](https://github.com/niko1221/strata) |
 | [FilmCraft](https://www.githot.io.vn/repo/filmcraft) | Phần mềm dựng video miễn phí, mã nguồn mở (MIT hoặc Apache-2.0), thay thế Premiere Pro cho Windows, macOS và Linux. | [storytold/filmcraft](https://github.com/storytold/filmcraft) |
 | [PhotoCraft](https://www.githot.io.vn/repo/photocraft) | Phần mềm chỉnh ảnh miễn phí, mã nguồn mở (MIT hoặc Apache-2.0), thay thế Photoshop cho Windows, macOS và Linux. | [storytold/photocraft](https://github.com/storytold/photocraft) |
 | [God's Eye View](https://www.githot.io.vn/repo/gods-eye-view) | Quả địa cầu 3D chạy trên trình duyệt, miễn phí, mã nguồn mở (MIT), hiện dữ liệu công khai gần thời gian thực: máy bay, tàu, vệ tinh (kể cả ISS), động đất, cháy, thời tiết. | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) |
@@ -66,6 +68,8 @@ Free, open-source software from GitHub that [GitHot](https://www.githot.io.vn/en
 
 | Software | What it is for | Source |
 | --- | --- | --- |
+| [Plexo](https://www.githot.io.vn/en/repo/plexo) | Free, open-source (MIT) download manager for Windows, macOS and Linux that downloads one file over several networks at once (for example home Wi-Fi plus a phone over USB). | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) |
+| [Strata](https://www.githot.io.vn/en/repo/strata) | Free, open-source (MIT) program that runs a very large AI model (Qwen3.8-Flash-Next, about 125B parameters) offline on a gaming PC with an NVIDIA or AMD card of 12 GB+ VRAM and 32 GB+ RAM. | [niko1221/strata](https://github.com/niko1221/strata) |
 | [FilmCraft](https://www.githot.io.vn/en/repo/filmcraft) | Free, open-source (MIT or Apache-2.0) Premiere Pro alternative for Windows, macOS and Linux with a multi-track timeline, transitions, colour grading, audio mixing and H.264 MP4 export. | [storytold/filmcraft](https://github.com/storytold/filmcraft) |
 | [PhotoCraft](https://www.githot.io.vn/en/repo/photocraft) | Free, open-source (MIT or Apache-2.0) Photoshop alternative for Windows, macOS and Linux with layers, masks, adjustment layers, text, brushes and real PSD support. | [storytold/photocraft](https://github.com/storytold/photocraft) |
 | [God's Eye View](https://www.githot.io.vn/en/repo/gods-eye-view) | Free, open-source (MIT) 3D globe that runs in your browser and shows public data almost in real time: aircraft, ships, satellites (including the ISS), earthquakes, fires and weather. | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) |

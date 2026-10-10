@@ -4,10 +4,12 @@ Danh sách phần mềm mã nguồn mở, miễn phí trên GitHub mà [GitHot](
 
 Không thấy phần mềm bạn cần? Tìm trên [githot.io.vn](https://www.githot.io.vn), hoặc [mở một issue](../../issues/new) để đề xuất.
 
-## Danh sách (53 hướng dẫn)
+## Danh sách (55 hướng dẫn)
 
 | Phần mềm | Dùng để làm gì | Mã nguồn |
 | --- | --- | --- |
+| [SCSKiller](https://www.githot.io.vn/repo/scskiller) | Công cụ miễn phí, mã nguồn mở cho Windows giúp game bớt giật khựng: biên dịch sẵn shader vào bộ nhớ đệm của driver card đồ họa trước khi bạn chơi. | [blueheisenberg/scskiller](https://github.com/blueheisenberg/scskiller) |
+| [LightCraft](https://www.githot.io.vn/repo/lightcraft) | Phần mềm quản lý và chỉnh ảnh miễn phí, mã nguồn mở (MIT hoặc Apache-2.0), làm theo kiểu Adobe Lightroom cho Windows, macOS và Linux. | [storytold/lightcraft](https://github.com/storytold/lightcraft) |
 | [Plexo](https://www.githot.io.vn/repo/plexo) | Phần mềm quản lý tải xuống miễn phí, mã nguồn mở (MIT) cho Windows, macOS và Linux, tải một file qua nhiều mạng cùng lúc (ví dụ Wi-Fi nhà cộng điện thoại phát mạng qua USB). | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) |
 | [Strata](https://www.githot.io.vn/repo/strata) | Chương trình miễn phí, mã nguồn mở (MIT) giúp chạy mô hình AI cỡ lớn (Qwen3.8-Flash-Next, khoảng 125 tỷ tham số) offline ngay trên PC chơi game có card NVIDIA hoặc AMD từ 12 GB VRAM và RAM từ 32 GB. | [niko1221/strata](https://github.com/niko1221/strata) |
 | [FilmCraft](https://www.githot.io.vn/repo/filmcraft) | Phần mềm dựng video miễn phí, mã nguồn mở (MIT hoặc Apache-2.0), thay thế Premiere Pro cho Windows, macOS và Linux. | [storytold/filmcraft](https://github.com/storytold/filmcraft) |
@@ -68,6 +70,8 @@ Free, open-source software from GitHub that [GitHot](https://www.githot.io.vn/en
 
 | Software | What it is for | Source |
 | --- | --- | --- |
+| [SCSKiller](https://www.githot.io.vn/en/repo/scskiller) | Free, open-source Windows tool that cuts game stutter by compiling a game's shaders into the graphics driver cache before you play. | [blueheisenberg/scskiller](https://github.com/blueheisenberg/scskiller) |
+| [LightCraft](https://www.githot.io.vn/en/repo/lightcraft) | Free, open-source (MIT or Apache-2.0) Lightroom-style photo manager and RAW editor for Windows, macOS and Linux. | [storytold/lightcraft](https://github.com/storytold/lightcraft) |
 | [Plexo](https://www.githot.io.vn/en/repo/plexo) | Free, open-source (MIT) download manager for Windows, macOS and Linux that downloads one file over several networks at once (for example home Wi-Fi plus a phone over USB). | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) |
 | [Strata](https://www.githot.io.vn/en/repo/strata) | Free, open-source (MIT) program that runs a very large AI model (Qwen3.8-Flash-Next, about 125B parameters) offline on a gaming PC with an NVIDIA or AMD card of 12 GB+ VRAM and 32 GB+ RAM. | [niko1221/strata](https://github.com/niko1221/strata) |
 | [FilmCraft](https://www.githot.io.vn/en/repo/filmcraft) | Free, open-source (MIT or Apache-2.0) Premiere Pro alternative for Windows, macOS and Linux with a multi-track timeline, transitions, colour grading, audio mixing and H.264 MP4 export. | [storytold/filmcraft](https://github.com/storytold/filmcraft) |

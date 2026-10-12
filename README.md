@@ -4,10 +4,12 @@ Danh sách phần mềm mã nguồn mở, miễn phí trên GitHub mà [GitHot](
 
 Không thấy phần mềm bạn cần? Tìm trên [githot.io.vn](https://www.githot.io.vn), hoặc [mở một issue](../../issues/new) để đề xuất.
 
-## Danh sách (55 hướng dẫn)
+## Danh sách (57 hướng dẫn)
 
 | Phần mềm | Dùng để làm gì | Mã nguồn |
 | --- | --- | --- |
+| [ZenConverter](https://www.githot.io.vn/repo/zenconverter) | Ứng dụng Android miễn phí, mã nguồn mở (AGPL-3.0) để đổi file ngay trên điện thoại: ghép, nén và đặt mật khẩu PDF, đổi ảnh sang PDF, đổi định dạng ảnh, nén và ghép video, tách âm thanh, đổi phụ đề và phông chữ. | [jasonzhu1207/zenconverter](https://github.com/jasonzhu1207/zenconverter) |
+| [PdfCraft](https://www.githot.io.vn/repo/pdfcraft) | Phần mềm đọc và chỉnh sửa PDF miễn phí, mã nguồn mở (MIT hoặc Apache-2.0), làm theo kiểu Adobe Acrobat cho Windows, macOS và Linux. | [storytold/pdfcraft](https://github.com/storytold/pdfcraft) |
 | [SCSKiller](https://www.githot.io.vn/repo/scskiller) | Công cụ miễn phí, mã nguồn mở cho Windows giúp game bớt giật khựng: biên dịch sẵn shader vào bộ nhớ đệm của driver card đồ họa trước khi bạn chơi. | [blueheisenberg/scskiller](https://github.com/blueheisenberg/scskiller) |
 | [LightCraft](https://www.githot.io.vn/repo/lightcraft) | Phần mềm quản lý và chỉnh ảnh miễn phí, mã nguồn mở (MIT hoặc Apache-2.0), làm theo kiểu Adobe Lightroom cho Windows, macOS và Linux. | [storytold/lightcraft](https://github.com/storytold/lightcraft) |
 | [Plexo](https://www.githot.io.vn/repo/plexo) | Phần mềm quản lý tải xuống miễn phí, mã nguồn mở (MIT) cho Windows, macOS và Linux, tải một file qua nhiều mạng cùng lúc (ví dụ Wi-Fi nhà cộng điện thoại phát mạng qua USB). | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) |
@@ -70,6 +72,8 @@ Free, open-source software from GitHub that [GitHot](https://www.githot.io.vn/en
 
 | Software | What it is for | Source |
 | --- | --- | --- |
+| [ZenConverter](https://www.githot.io.vn/en/repo/zenconverter) | Free, open-source (AGPL-3.0) Android app for converting files on your phone: merge, compress and password-protect PDFs, images to PDF, image formats, video compression and merging, audio extraction, subtitles and fonts. | [jasonzhu1207/zenconverter](https://github.com/jasonzhu1207/zenconverter) |
+| [PdfCraft](https://www.githot.io.vn/en/repo/pdfcraft) | Free, open-source (MIT or Apache-2.0) PDF reader and editor in the style of Adobe Acrobat for Windows, macOS and Linux. | [storytold/pdfcraft](https://github.com/storytold/pdfcraft) |
 | [SCSKiller](https://www.githot.io.vn/en/repo/scskiller) | Free, open-source Windows tool that cuts game stutter by compiling a game's shaders into the graphics driver cache before you play. | [blueheisenberg/scskiller](https://github.com/blueheisenberg/scskiller) |
 | [LightCraft](https://www.githot.io.vn/en/repo/lightcraft) | Free, open-source (MIT or Apache-2.0) Lightroom-style photo manager and RAW editor for Windows, macOS and Linux. | [storytold/lightcraft](https://github.com/storytold/lightcraft) |
 | [Plexo](https://www.githot.io.vn/en/repo/plexo) | Free, open-source (MIT) download manager for Windows, macOS and Linux that downloads one file over several networks at once (for example home Wi-Fi plus a phone over USB). | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) |

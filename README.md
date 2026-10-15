@@ -4,10 +4,12 @@ Danh sách phần mềm mã nguồn mở, miễn phí trên GitHub mà [GitHot](
 
 Không thấy phần mềm bạn cần? Tìm trên [githot.io.vn](https://www.githot.io.vn), hoặc [mở một issue](../../issues/new) để đề xuất.
 
-## Danh sách (57 hướng dẫn)
+## Danh sách (59 hướng dẫn)
 
 | Phần mềm | Dùng để làm gì | Mã nguồn |
 | --- | --- | --- |
+| [ACE-Step 1.5](https://www.githot.io.vn/repo/ace-step) | Mô hình AI tạo nhạc miễn phí, mã nguồn mở (MIT), chạy ngay trên máy tính: mô tả bài hát hoặc dán lời là ra cả bài có nhạc cụ và giọng hát. | [ace-step/ace-step-1.5](https://github.com/ace-step/ace-step-1.5) |
+| [Voicebox](https://www.githot.io.vn/repo/voicebox) | Studio giọng nói AI miễn phí, mã nguồn mở (MIT), chạy ngay trên máy: nhân bản giọng từ đoạn thu ngắn, đọc văn bản thành tiếng bằng nhiều mô hình và gõ chữ bằng giọng nói. | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) |
 | [ZenConverter](https://www.githot.io.vn/repo/zenconverter) | Ứng dụng Android miễn phí, mã nguồn mở (AGPL-3.0) để đổi file ngay trên điện thoại: ghép, nén và đặt mật khẩu PDF, đổi ảnh sang PDF, đổi định dạng ảnh, nén và ghép video, tách âm thanh, đổi phụ đề và phông chữ. | [jasonzhu1207/zenconverter](https://github.com/jasonzhu1207/zenconverter) |
 | [PdfCraft](https://www.githot.io.vn/repo/pdfcraft) | Phần mềm đọc và chỉnh sửa PDF miễn phí, mã nguồn mở (MIT hoặc Apache-2.0), làm theo kiểu Adobe Acrobat cho Windows, macOS và Linux. | [storytold/pdfcraft](https://github.com/storytold/pdfcraft) |
 | [SCSKiller](https://www.githot.io.vn/repo/scskiller) | Công cụ miễn phí, mã nguồn mở cho Windows giúp game bớt giật khựng: biên dịch sẵn shader vào bộ nhớ đệm của driver card đồ họa trước khi bạn chơi. | [blueheisenberg/scskiller](https://github.com/blueheisenberg/scskiller) |
@@ -72,6 +74,8 @@ Free, open-source software from GitHub that [GitHot](https://www.githot.io.vn/en
 
 | Software | What it is for | Source |
 | --- | --- | --- |
+| [ACE-Step 1.5](https://www.githot.io.vn/en/repo/ace-step) | Free, open-source (MIT) AI music model that runs on your own PC: describe a song or paste lyrics and get a full track with instruments and vocals. | [ace-step/ace-step-1.5](https://github.com/ace-step/ace-step-1.5) |
+| [Voicebox](https://www.githot.io.vn/en/repo/voicebox) | Free, open-source (MIT) AI voice studio that runs on your own computer: clone a voice from a short sample, turn text into speech with several engines and type by voice. | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) |
 | [ZenConverter](https://www.githot.io.vn/en/repo/zenconverter) | Free, open-source (AGPL-3.0) Android app for converting files on your phone: merge, compress and password-protect PDFs, images to PDF, image formats, video compression and merging, audio extraction, subtitles and fonts. | [jasonzhu1207/zenconverter](https://github.com/jasonzhu1207/zenconverter) |
 | [PdfCraft](https://www.githot.io.vn/en/repo/pdfcraft) | Free, open-source (MIT or Apache-2.0) PDF reader and editor in the style of Adobe Acrobat for Windows, macOS and Linux. | [storytold/pdfcraft](https://github.com/storytold/pdfcraft) |
 | [SCSKiller](https://www.githot.io.vn/en/repo/scskiller) | Free, open-source Windows tool that cuts game stutter by compiling a game's shaders into the graphics driver cache before you play. | [blueheisenberg/scskiller](https://github.com/blueheisenberg/scskiller) |
